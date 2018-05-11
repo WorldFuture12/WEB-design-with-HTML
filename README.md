@@ -1,1 +1,1 @@
-# WEB-basic table using HTML
+# WEB basic table using HTML
